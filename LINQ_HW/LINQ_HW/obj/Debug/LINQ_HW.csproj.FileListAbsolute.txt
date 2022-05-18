@@ -1,0 +1,7 @@
+C:\Users\zacar\source\repos\LINQ_HW\LINQ_HW\bin\Debug\LINQ_HW.exe.config
+C:\Users\zacar\source\repos\LINQ_HW\LINQ_HW\bin\Debug\LINQ_HW.exe
+C:\Users\zacar\source\repos\LINQ_HW\LINQ_HW\bin\Debug\LINQ_HW.pdb
+C:\Users\zacar\source\repos\LINQ_HW\LINQ_HW\obj\Debug\LINQ_HW.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\LINQ_HW\LINQ_HW\obj\Debug\LINQ_HW.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\LINQ_HW\LINQ_HW\obj\Debug\LINQ_HW.exe
+C:\Users\zacar\source\repos\LINQ_HW\LINQ_HW\obj\Debug\LINQ_HW.pdb

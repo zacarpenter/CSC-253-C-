@@ -1,0 +1,7 @@
+C:\Users\zacar\source\repos\Advanced_LINQ_HW\Advanced_LINQ_HW\bin\Debug\Advanced_LINQ_HW.exe.config
+C:\Users\zacar\source\repos\Advanced_LINQ_HW\Advanced_LINQ_HW\bin\Debug\Advanced_LINQ_HW.exe
+C:\Users\zacar\source\repos\Advanced_LINQ_HW\Advanced_LINQ_HW\bin\Debug\Advanced_LINQ_HW.pdb
+C:\Users\zacar\source\repos\Advanced_LINQ_HW\Advanced_LINQ_HW\obj\Debug\Advanced_LINQ_HW.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\Advanced_LINQ_HW\Advanced_LINQ_HW\obj\Debug\Advanced_LINQ_HW.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\Advanced_LINQ_HW\Advanced_LINQ_HW\obj\Debug\Advanced_LINQ_HW.exe
+C:\Users\zacar\source\repos\Advanced_LINQ_HW\Advanced_LINQ_HW\obj\Debug\Advanced_LINQ_HW.pdb

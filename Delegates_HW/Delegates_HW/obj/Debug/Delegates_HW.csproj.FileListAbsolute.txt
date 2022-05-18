@@ -1,0 +1,7 @@
+C:\Users\zacar\source\repos\Delegates_HW\Delegates_HW\bin\Debug\Delegates_HW.exe.config
+C:\Users\zacar\source\repos\Delegates_HW\Delegates_HW\bin\Debug\Delegates_HW.exe
+C:\Users\zacar\source\repos\Delegates_HW\Delegates_HW\bin\Debug\Delegates_HW.pdb
+C:\Users\zacar\source\repos\Delegates_HW\Delegates_HW\obj\Debug\Delegates_HW.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\Delegates_HW\Delegates_HW\obj\Debug\Delegates_HW.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\Delegates_HW\Delegates_HW\obj\Debug\Delegates_HW.exe
+C:\Users\zacar\source\repos\Delegates_HW\Delegates_HW\obj\Debug\Delegates_HW.pdb
