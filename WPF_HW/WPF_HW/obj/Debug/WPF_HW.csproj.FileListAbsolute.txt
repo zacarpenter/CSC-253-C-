@@ -1,0 +1,15 @@
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\bin\Debug\WPF_HW.exe.config
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\bin\Debug\WPF_HW.exe
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\bin\Debug\WPF_HW.pdb
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\obj\Debug\WPF_HW.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\obj\Debug\MainWindow.g.cs
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\obj\Debug\App.g.cs
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\obj\Debug\WPF_HW_MarkupCompile.cache
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\obj\Debug\WPF_HW_MarkupCompile.lref
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\obj\Debug\MainWindow.baml
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\obj\Debug\WPF_HW.g.resources
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\obj\Debug\WPF_HW.Properties.Resources.resources
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\obj\Debug\WPF_HW.csproj.GenerateResource.cache
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\obj\Debug\WPF_HW.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\obj\Debug\WPF_HW.exe
+C:\Users\zacar\source\repos\WPF_HW\WPF_HW\obj\Debug\WPF_HW.pdb

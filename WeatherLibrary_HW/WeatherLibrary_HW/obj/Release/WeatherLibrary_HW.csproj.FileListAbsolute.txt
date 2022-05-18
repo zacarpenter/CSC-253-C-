@@ -1,0 +1,6 @@
+C:\Users\zacar\source\repos\WeatherLibrary_HW\WeatherLibrary_HW\bin\Release\WeatherLibrary_HW.dll
+C:\Users\zacar\source\repos\WeatherLibrary_HW\WeatherLibrary_HW\bin\Release\WeatherLibrary_HW.pdb
+C:\Users\zacar\source\repos\WeatherLibrary_HW\WeatherLibrary_HW\obj\Release\WeatherLibrary_HW.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\WeatherLibrary_HW\WeatherLibrary_HW\obj\Release\WeatherLibrary_HW.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\WeatherLibrary_HW\WeatherLibrary_HW\obj\Release\WeatherLibrary_HW.dll
+C:\Users\zacar\source\repos\WeatherLibrary_HW\WeatherLibrary_HW\obj\Release\WeatherLibrary_HW.pdb
