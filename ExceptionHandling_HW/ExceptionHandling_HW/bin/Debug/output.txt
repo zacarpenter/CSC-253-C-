@@ -1,0 +1,3 @@
+The average for the class is: 71.5
+Pete had the highest score of: 99
+Doug had the lowest score of: 30

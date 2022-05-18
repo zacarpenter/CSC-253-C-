@@ -1,0 +1,7 @@
+C:\Users\zacar\source\repos\ListsAndDictionariesHW\ListsAndDictionariesHW\bin\Debug\ListsAndDictionariesHW.exe.config
+C:\Users\zacar\source\repos\ListsAndDictionariesHW\ListsAndDictionariesHW\bin\Debug\ListsAndDictionariesHW.exe
+C:\Users\zacar\source\repos\ListsAndDictionariesHW\ListsAndDictionariesHW\bin\Debug\ListsAndDictionariesHW.pdb
+C:\Users\zacar\source\repos\ListsAndDictionariesHW\ListsAndDictionariesHW\obj\Debug\ListsAndDictionariesHW.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\ListsAndDictionariesHW\ListsAndDictionariesHW\obj\Debug\ListsAndDictionariesHW.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\ListsAndDictionariesHW\ListsAndDictionariesHW\obj\Debug\ListsAndDictionariesHW.exe
+C:\Users\zacar\source\repos\ListsAndDictionariesHW\ListsAndDictionariesHW\obj\Debug\ListsAndDictionariesHW.pdb

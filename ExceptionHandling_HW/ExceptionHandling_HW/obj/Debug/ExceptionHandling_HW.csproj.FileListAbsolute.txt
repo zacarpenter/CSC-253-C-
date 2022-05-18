@@ -1,0 +1,7 @@
+C:\Users\zacar\source\repos\ExceptionHandling_HW\ExceptionHandling_HW\bin\Debug\ExceptionHandling_HW.exe.config
+C:\Users\zacar\source\repos\ExceptionHandling_HW\ExceptionHandling_HW\bin\Debug\ExceptionHandling_HW.exe
+C:\Users\zacar\source\repos\ExceptionHandling_HW\ExceptionHandling_HW\bin\Debug\ExceptionHandling_HW.pdb
+C:\Users\zacar\source\repos\ExceptionHandling_HW\ExceptionHandling_HW\obj\Debug\ExceptionHandling_HW.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\ExceptionHandling_HW\ExceptionHandling_HW\obj\Debug\ExceptionHandling_HW.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\ExceptionHandling_HW\ExceptionHandling_HW\obj\Debug\ExceptionHandling_HW.exe
+C:\Users\zacar\source\repos\ExceptionHandling_HW\ExceptionHandling_HW\obj\Debug\ExceptionHandling_HW.pdb

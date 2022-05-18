@@ -1,0 +1,7 @@
+C:\Users\zacar\source\repos\EnumHW\EnumHW\bin\Debug\EnumHW.exe.config
+C:\Users\zacar\source\repos\EnumHW\EnumHW\bin\Debug\EnumHW.exe
+C:\Users\zacar\source\repos\EnumHW\EnumHW\bin\Debug\EnumHW.pdb
+C:\Users\zacar\source\repos\EnumHW\EnumHW\obj\Debug\EnumHW.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\EnumHW\EnumHW\obj\Debug\EnumHW.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\EnumHW\EnumHW\obj\Debug\EnumHW.exe
+C:\Users\zacar\source\repos\EnumHW\EnumHW\obj\Debug\EnumHW.pdb
