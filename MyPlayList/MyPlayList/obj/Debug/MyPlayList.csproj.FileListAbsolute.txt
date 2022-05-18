@@ -1,0 +1,7 @@
+C:\Users\zacar\source\repos\MyPlayList\MyPlayList\bin\Debug\MyPlayList.exe.config
+C:\Users\zacar\source\repos\MyPlayList\MyPlayList\bin\Debug\MyPlayList.exe
+C:\Users\zacar\source\repos\MyPlayList\MyPlayList\bin\Debug\MyPlayList.pdb
+C:\Users\zacar\source\repos\MyPlayList\MyPlayList\obj\Debug\MyPlayList.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\MyPlayList\MyPlayList\obj\Debug\MyPlayList.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\MyPlayList\MyPlayList\obj\Debug\MyPlayList.exe
+C:\Users\zacar\source\repos\MyPlayList\MyPlayList\obj\Debug\MyPlayList.pdb

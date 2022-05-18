@@ -1,0 +1,6 @@
+C:\Users\zacar\source\repos\MathLibrary\MathLibrary\bin\Release\MathLibrary.dll
+C:\Users\zacar\source\repos\MathLibrary\MathLibrary\bin\Release\MathLibrary.pdb
+C:\Users\zacar\source\repos\MathLibrary\MathLibrary\obj\Release\MathLibrary.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\MathLibrary\MathLibrary\obj\Release\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\MathLibrary\MathLibrary\obj\Release\MathLibrary.dll
+C:\Users\zacar\source\repos\MathLibrary\MathLibrary\obj\Release\MathLibrary.pdb

@@ -1,0 +1,10 @@
+C:\Users\zacar\source\repos\MathApp\MathApp\bin\Debug\MathApp.exe.config
+C:\Users\zacar\source\repos\MathApp\MathApp\bin\Debug\MathApp.exe
+C:\Users\zacar\source\repos\MathApp\MathApp\bin\Debug\MathApp.pdb
+C:\Users\zacar\source\repos\MathApp\MathApp\bin\Debug\MathLibrary.dll
+C:\Users\zacar\source\repos\MathApp\MathApp\bin\Debug\MathLibrary.pdb
+C:\Users\zacar\source\repos\MathApp\MathApp\obj\Debug\MathApp.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\MathApp\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\MathApp\MathApp\obj\Debug\MathApp.csproj.CopyComplete
+C:\Users\zacar\source\repos\MathApp\MathApp\obj\Debug\MathApp.exe
+C:\Users\zacar\source\repos\MathApp\MathApp\obj\Debug\MathApp.pdb
