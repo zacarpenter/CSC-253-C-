@@ -1,0 +1,13 @@
+C:\Users\zacar\source\repos\WeatherCalulator_HW\WeatherCalulator_HW\bin\Debug\WeatherCalulator_HW.exe.config
+C:\Users\zacar\source\repos\WeatherCalulator_HW\WeatherCalulator_HW\bin\Debug\WeatherCalulator_HW.exe
+C:\Users\zacar\source\repos\WeatherCalulator_HW\WeatherCalulator_HW\bin\Debug\WeatherCalulator_HW.pdb
+C:\Users\zacar\source\repos\WeatherCalulator_HW\WeatherCalulator_HW\bin\Debug\WeatherLibrary_HW.dll
+C:\Users\zacar\source\repos\WeatherCalulator_HW\WeatherCalulator_HW\bin\Debug\WeatherLibrary_HW.pdb
+C:\Users\zacar\source\repos\WeatherCalulator_HW\WeatherCalulator_HW\obj\Debug\WeatherCalulator_HW.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\WeatherCalulator_HW\WeatherCalulator_HW\obj\Debug\WeatherCalulator_HW.WeatherCalc.resources
+C:\Users\zacar\source\repos\WeatherCalulator_HW\WeatherCalulator_HW\obj\Debug\WeatherCalulator_HW.Properties.Resources.resources
+C:\Users\zacar\source\repos\WeatherCalulator_HW\WeatherCalulator_HW\obj\Debug\WeatherCalulator_HW.csproj.GenerateResource.cache
+C:\Users\zacar\source\repos\WeatherCalulator_HW\WeatherCalulator_HW\obj\Debug\WeatherCalulator_HW.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\WeatherCalulator_HW\WeatherCalulator_HW\obj\Debug\WeatherCalulator_HW.csproj.CopyComplete
+C:\Users\zacar\source\repos\WeatherCalulator_HW\WeatherCalulator_HW\obj\Debug\WeatherCalulator_HW.exe
+C:\Users\zacar\source\repos\WeatherCalulator_HW\WeatherCalulator_HW\obj\Debug\WeatherCalulator_HW.pdb

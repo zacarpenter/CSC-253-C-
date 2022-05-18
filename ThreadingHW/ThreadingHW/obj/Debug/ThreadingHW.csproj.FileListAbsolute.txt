@@ -1,0 +1,9 @@
+C:\Users\zacar\source\repos\ThreadingHW\ThreadingHW\bin\Debug\ThreadingHW.exe.config
+C:\Users\zacar\source\repos\ThreadingHW\ThreadingHW\bin\Debug\ThreadingHW.exe
+C:\Users\zacar\source\repos\ThreadingHW\ThreadingHW\bin\Debug\ThreadingHW.pdb
+C:\Users\zacar\source\repos\ThreadingHW\ThreadingHW\obj\Debug\ThreadingHW.csprojAssemblyReference.cache
+C:\Users\zacar\source\repos\ThreadingHW\ThreadingHW\obj\Debug\ThreadingHW.Properties.Resources.resources
+C:\Users\zacar\source\repos\ThreadingHW\ThreadingHW\obj\Debug\ThreadingHW.csproj.GenerateResource.cache
+C:\Users\zacar\source\repos\ThreadingHW\ThreadingHW\obj\Debug\ThreadingHW.csproj.CoreCompileInputs.cache
+C:\Users\zacar\source\repos\ThreadingHW\ThreadingHW\obj\Debug\ThreadingHW.exe
+C:\Users\zacar\source\repos\ThreadingHW\ThreadingHW\obj\Debug\ThreadingHW.pdb
